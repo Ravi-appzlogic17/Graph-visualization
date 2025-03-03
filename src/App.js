@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       <h1>Network Graph</h1>
       <li>
-        Click on the DB Server to connect to DB Table
+        Click on the DB Server to connect to DB Table.
+      </li>
+      <li>
+        Click on the User then navigate to user section graph.
       </li>
       <Router>
       <GraphComponent />
